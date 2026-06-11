@@ -1,16 +1,74 @@
 ## Hi there 👋
+# Irina Leo
 
-<!--
-**irina-leo/irina-leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Prompt Engineer | AI Product Analyst | Junior AI Developer
 
-Here are some ideas to get you started:
+Разрабатываю AI-агентов, промпт-архитектуры, Telegram-ботов, RAG-пайплайны и учебные материалы по LLM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Мой фокус — проектирование AI-систем, которые решают прикладные задачи: обучение, анализ, автоматизация, тестирование и поддержка принятия решений.
+
+## Основные направления
+
+* AI-агенты и многошаговые промпт-архитектуры
+* Telegram-боты на Python
+* RAG-пайплайны, FAISS, BM25, hybrid retrieval
+* OpenAI API / Responses API
+* LangGraph и LangSmith
+* AI-тестирование и сценарии prompt injection
+* Образовательные AI-продукты и учебные материалы
+* Анализ пользовательских сценариев и проектирование логики диалога
+
+## Избранные проекты
+
+### CogniLingua AI Tutor
+
+Telegram-бот для обучения английскому языку специалистов Data Science.
+
+В проекте реализованы уровни обучения, AI-наставники, GPT-feedback, образовательная логика, работа с PostgreSQL и сохранение прогресса пользователя.
+
+### NeuroSecretary AI Pipeline
+
+Пайплайн нейросекретаря для обработки видео и аудио.
+
+Система включает распознавание речи, смысловую диаризацию, анализ, summary и подготовку итогового протокола.
+
+### NeuroClinic TestMachine
+
+Тестовая машина для проверки и сравнения диагностических промптов.
+
+Проект включает профили тестировщиков, сценарии стресс-тестирования, краш-тесты и анализ качества ответов AI-агента.
+
+### RAG / Hybrid Retrieval Homeworks
+
+Учебные задания и разборы по RAG, FAISS, BM25, hybrid retrieval и LangGraph.
+
+Проекты направлены на проверку качества извлечения информации и сравнение разных retrieval-стратегий.
+
+### LLM Security Homeworks
+
+Сценарии тестирования prompt injection, jailbreak-атак и устойчивости AI-систем.
+
+В рамках проекта подготовлены тестовые запросы, проверки поведения модели и разборы результатов.
+
+### LangSmith / LangGraph Course Materials
+
+Учебный Colab-ноутбук и домашние задания по LangSmith и LangGraph.
+
+Материалы включают трассировку запусков, ReAct-паттерн, датасеты, эксперименты и LLM-as-a-Judge.
+
+## Технологии
+
+Python, OpenAI API, Responses API, Google Colab, Telegram Bot API, aiogram, PostgreSQL, FAISS, BM25, LangGraph, LangSmith, Pandas, JSON, Markdown, GitHub.
+
+## Формат работы
+
+* проектирование архитектуры AI-агентов;
+* разработка промптов и сценариев взаимодействия;
+* подготовка баз знаний;
+* тестирование LLM-систем;
+* оформление учебных и портфолио-материалов;
+* анализ результатов и улучшение логики AI-продукта.
+
+## Контакты
+
+Email: [misscaprise25@gmail.com](mailto:misscaprise25@gmail.com)
