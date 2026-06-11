@@ -1,4 +1,3 @@
-## Hi there 👋
 # Irina Leo
 
 ## AI Prompt Engineer | AI Product Analyst | Junior AI Developer
